@@ -1,0 +1,10 @@
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\bin\Debug\IT391_Peck_Unit6_PartB.exe.config
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\bin\Debug\IT391_Peck_Unit6_PartB.exe
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\bin\Debug\IT391_Peck_Unit6_PartB.pdb
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.Form1.resources
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.Properties.Resources.resources
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.exe
+C:\Users\hunte\source\repos\IT391_Peck_Unit6_PartB\obj\Debug\IT391_Peck_Unit6_PartB.pdb
